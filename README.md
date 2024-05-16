@@ -1,4 +1,4 @@
-# Image-processing-project
+# Image-processing-project | Smile Swapper
 
-to run this project run ProjectWithGui
+To run this project run ProjectWithGui
 the GUI will start and you can add your own images
